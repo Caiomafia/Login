@@ -1,2 +1,7 @@
 # Login
-Projeto criado para aplicar conhecimento adquiridos em react native 
+Etapa atual dos estudos : 
+
+Conhecendo o Base : 
+
+
+#Etapa 2 : Aplicando tailwind e aprendo sobre navegações de telas .  
